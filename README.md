@@ -272,7 +272,7 @@
 
 ## 📊 Estatísticas do GitHub
 
-<p align="left">
+<p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=AlissondSouza&show_icons=true&theme=radical&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissondSouza&layout=compact&theme=radical" />
 </p>
@@ -286,7 +286,7 @@
 
 ---
 
-<p align="left">
+<p align="center">
   <img align="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2JhYzhsMjZ0ZXNmdTRkczZuZmY1ZHdpbzV1ZnRyMGZrcTNpdDhheSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uBTWyINWTrWz6/giphy.gif" alt="Imagem">
 </p>
 
