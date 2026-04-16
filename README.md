@@ -185,7 +185,7 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"
 />
-
+          
 <br/>
 <br/>
 
@@ -286,12 +286,19 @@
 
 ---
 
-<p align="center">
+<p align="left">
   <img align="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2JhYzhsMjZ0ZXNmdTRkczZuZmY1ZHdpbzV1ZnRyMGZrcTNpdDhheSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uBTWyINWTrWz6/giphy.gif" alt="Imagem">
 </p>
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlissondSouza/AlissondSouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlissondSouza/AlissondSouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AlissondSouza/AlissondSouza/output/pacman-contribution-graph.svg">
+</picture>
+
+---
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=eduardosvhiavo60&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=true&mode=dark&bar_color=8c0874&bar_color_cover=true">
