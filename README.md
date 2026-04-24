@@ -1,11 +1,5 @@
 # 👨🏻‍💻 Alisson Junior
 
-<p align="center">
-  <img width=200 align="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2FxZ3prd2wzN2libGZmcGpuOHVvd2ZtN3A0bjBmcmJ1NjkzdmZlYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rzcYzbp8BZmwWTUPFa/giphy.gif" alt="Imagem">
-</p>
-
----
-
 🚀 **`Estudante de Analise e Desenvolvimento de Sistemas` | Foco em Design, Infraestruturas e Redes**
 
 <p align="left">
@@ -297,13 +291,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlissondSouza/AlissondSouza/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AlissondSouza/AlissondSouza/output/pacman-contribution-graph.svg">
 </picture>
-
----
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=eduardosvhiavo60&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=true&mode=dark&bar_color=8c0874&bar_color_cover=true">
-  </a>
-</p>
 
 ---
 
