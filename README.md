@@ -8,7 +8,7 @@
     title="Paraná-Brasil"
     src="https://custom-icon-badges.demolab.com/badge/Paraná-BR-darckgren?style=for-the-badge&logo=location&logoColor=white">
 
-**Tenho uma startup que desenvolve `produtos de automação` e `plataformas SaaS`**.  
+**Tenho uma startup em crescimento que desenvolve `produtos de automação` e `plataformas SaaS`**.  
 **Tenho foco profundo em `arquitetura, performance, designer, infraestrutura e redes`**.
 
 ---
