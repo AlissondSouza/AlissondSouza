@@ -267,8 +267,8 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AlissondSouza&show_icons=true&theme=radical&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissondSouza&layout=compact&theme=radical" />
+  <img height="170" src="https://ghstats.dev/api/card?username=AlissondSouza&theme=radical" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=AlissondSouza&theme=radical" />
 </p>
 
 ---
