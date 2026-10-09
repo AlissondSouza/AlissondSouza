@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Alisson Junior
 
-🚀 **`Estudante de Analise e Desenvolvimento de Sistemas` | Foco em Design, Infraestruturas e Redes**
+🚀 **`Estudante de Analise e Desenvolvimento de Sistemas` | Foco em UX/UI Design, FrontEnd, Redes e Marketing**
 
 <p align="left">
  <img
@@ -8,7 +8,7 @@
     title="Paraná-Brasil"
     src="https://custom-icon-badges.demolab.com/badge/Paraná-BR-darckgren?style=for-the-badge&logo=location&logoColor=white">
 
-**Tenho uma startup em crescimento que desenvolve `produtos de automação` e `plataformas SaaS`**.  
+**Estou estudando para me tornar um 'UX/UX Fullstack', alem de aprender conceitos de programação e tecnologias novas**.  
 **Tenho foco profundo em `arquitetura, performance, designer, infraestrutura e redes`**.
 
 ---
@@ -36,7 +36,7 @@
 
 ## 🧠 O que eu faço
 
-- 🏗️ Desenvolvimento de sistemas SaaS e integração com N8N
+- 🏗️ Edito vídeos e crio disngs inovadores
 - 🧩 Arquitetura limpa e design de sistemas
 - 🔐 APIs seguras e autenticação
 - 🤖 Automações e integrações
