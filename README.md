@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Alisson Junior
 
-🚀 **`Estudante de Analise e Desenvolvimento de Sistemas` | Foco em UX/UI Design, FrontEnd, Redes e Marketing**
+🚀 **`Estudante de Analise e Desenvolvimento de Sistemas` | Foco em UX/UI Design, FrontEnd, Redes e Marketing**.
 
 <p align="left">
  <img
@@ -8,7 +8,7 @@
     title="Paraná-Brasil"
     src="https://custom-icon-badges.demolab.com/badge/Paraná-BR-darckgren?style=for-the-badge&logo=location&logoColor=white">
 
-**Estou estudando para me tornar um 'UX/UX Fullstack', alem de aprender conceitos de programação e tecnologias novas**.  
+**Estou estudando para me tornar um UX/UX Fullstack, alem de aprender conceitos de programação e tecnologias novas**.  
 **Tenho foco profundo em `arquitetura, performance, designer, infraestrutura e redes`**.
 
 ---
